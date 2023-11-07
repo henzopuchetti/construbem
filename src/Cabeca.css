@@ -1,0 +1,30 @@
+
+.cabecalho{
+    width: 100%;
+    height: 150px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lala{
+    font-size: 50px;
+}
+
+.lolo{
+    font-size: 15px;
+}
+
+.popo{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.toto{
+    color: white;
+    background-color: black;
+}
+
