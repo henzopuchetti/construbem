@@ -8,8 +8,8 @@ function Contato(){
   return (
     <div>
       <div className="cabecalho bg-dark">
-        <h4 className='lala'>Natural+</h4>
-        <p className='lolo'>A loja que utiliza apenas o natural</p>
+        <h4 className='lala'>Construbem</h4>
+        <p className='lolo'>A loja que constroi seus sonhos</p>
       <NavBarProjeto></NavBarProjeto>
       </div>
       <Dados></Dados>
