@@ -7,7 +7,7 @@ import Dados from '../components/Dados';
 function Contato(){
   return (
     <div>
-      <div className="cabecalho bg-dark">
+      <div className="cabecalho bg-primary">
         <h4 className='lala'>Construbem</h4>
         <p className='lolo'>A loja que constroi seus sonhos</p>
       <NavBarProjeto></NavBarProjeto>
